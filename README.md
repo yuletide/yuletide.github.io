@@ -33,13 +33,12 @@ _archive of things I've written elsewhere_
 
 
 ### Creative Coding Sketches
-* https://editor.p5js.org/yuletide/full/aIqGbIVxO
-* https://editor.p5js.org/yuletide/full/w-zQ4pvg6
-* https://editor.p5js.org/yuletide/sketches/sSCcQ27F8
-* https://editor.p5js.org/yuletide/sketches/aIqGbIVxO
-* https://editor.p5js.org/yuletide/sketches/qPDRU-zB8
-* https://editor.p5js.org/yuletide/sketches/oZC6rxd_h
-* https://editor.p5js.org/rfong/sketches/nPeF6UVrm 
+* [dream pillars](https://editor.p5js.org/yuletide/full/aIqGbIVxO)
+* [fractal flowers](https://editor.p5js.org/yuletide/full/w-zQ4pvg6)
+* [evil music visualizer (volume warning)](https://editor.p5js.org/yuletide/full/sSCcQ27F8)
+* [rainy day](https://editor.p5js.org/yuletide/full/qPDRU-zB8)
+* [telephone](https://editor.p5js.org/yuletide/sketches/oZC6rxd_h)
+* [video kaleidoscope](https://editor.p5js.org/rfong/sketches/nPeF6UVrm)
 
 
 ### Links
