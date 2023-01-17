@@ -1,10 +1,10 @@
 # Alex Yule
-experiments
+Spatial Web Dev
 
 ### Experiments
 * [Maptyper](https://maptyper.netlify.app/)
 * [Nitterbot](https://github.com/yuletide/nitterbot/)
-* [Metal Map](https://yuletide.github.io/metalmap)
+* [Metal Atlas](https://yuletide.github.io/metalmap)
 * [Old website archive](/flash-site) (_built in flash, now emulated in Rust_)
 
 ### Past Projects
