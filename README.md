@@ -1,9 +1,9 @@
-Spatial Web Dev
+Alex Yule / Spatial Web Developer
 
 ## Experiments
+* [Metal Atlas](https://yuletide.github.io/metalmap)
 * [Maptyper](https://maptyper.netlify.app/)
 * [Nitterbot](https://github.com/yuletide/nitterbot/)
-* [Metal Atlas](https://yuletide.github.io/metalmap)
 * [Old website archive](/flash-site) (_built in flash, now emulated in Rust_)
 
 ## Past Projects
@@ -41,6 +41,6 @@ _archive of things I've written elsewhere_
 * [video kaleidoscope](https://editor.p5js.org/rfong/sketches/nPeF6UVrm)
 
 
-## Links
+## Get in Touch
 * [LinkedIn](https://www.linkedin.com/in/alexyule/)
 * [Mastodon](https://mastodon.social/@yuletide)
