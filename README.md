@@ -1,4 +1,4 @@
-# Alex Yule / Spatial Web Developer & Solution Architect
+## *Alex Yule / Spatial Web Developer & Solution Architect*
 
 ## Experiments
 * [Metal Atlas](https://yuletide.github.io/metalmap)
