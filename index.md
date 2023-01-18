@@ -1,8 +1,13 @@
-## Experiments
-* [Metal Atlas](https://yuletide.github.io/metalmap)
+---
+title: Experiments
+autho: Alex Yule
+---
+
+* [The Heavy Metal Atlas](https://yuletide.github.io/metalmap)
 * [Maptyper](https://maptyper.netlify.app/)
 * [Nitterbot](https://github.com/yuletide/nitterbot/)
-* [Old website archive](/flash-site) (_built in flash, now emulated in Rust_)
+* [Vintage Flash Maps](/flash-site/flash/index.html)
+* [Old Website](/flash-site) _(built in flash, now emulated in Rust)_
 
 ## Past Projects
 * [Isochrone Accessibilty Toolkit](https://github.com/mapbox/impact-tools/tree/master/accessibility)
@@ -11,7 +16,7 @@
 * [Impact Tools](https://github.com/mapbox/impact-tools)
 * [Asset Tracking Architecture](https://www.mapbox.com/solutions/asset-tracking/)
 * [Content Tagging](https://www.mapbox.com/solutions/content-tagging/)
-* [Route Optimization Tuner for Logistics](https://www.mapbox.com/solutions/route-tuner/)
+* [Route Optimization Tuner for Logistics](https://www.mapbox.com/solutions/route-tuner/) [live demo](https://labs.mapbox.com/optimize-tuner/)
 * [Dynamic Charts & Legends](https://www.mapbox.com/impact-tools/charts)
 * [Textizen (now Granicus Interactive Text)](https://textizen.com/)
 

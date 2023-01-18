@@ -1,6 +1,8 @@
 theme: minima
 minima:
   skin: dark
-# title: Alex Yule / Spatial Web Developer & Solution Architect
+title: "yuletide"
+description: "Alex Yule: Spatial Developer & Solution Architect"
 titles_from_headings:
-  strip_title: true
+  strip_title: false
+# github: [metadata]
