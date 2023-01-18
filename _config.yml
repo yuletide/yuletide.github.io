@@ -1,5 +1,5 @@
 theme: minima
 minima:
   skin: dark
-# title: Alex Yule / Spatial Web Developer & Solution Architect
-strip_title: true
+title: Alex Yule / Spatial Web Developer & Solution Architect
+# strip_title: true

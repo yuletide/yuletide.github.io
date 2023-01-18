@@ -1,5 +1,3 @@
-## *Alex Yule / Spatial Web Developer & Solution Architect*
-
 ## Experiments
 * [Metal Atlas](https://yuletide.github.io/metalmap)
 * [Maptyper](https://maptyper.netlify.app/)
