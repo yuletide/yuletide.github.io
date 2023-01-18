@@ -1,13 +1,12 @@
-# Alex Yule
 Spatial Web Dev
 
-### Experiments
+## Experiments
 * [Maptyper](https://maptyper.netlify.app/)
 * [Nitterbot](https://github.com/yuletide/nitterbot/)
 * [Metal Atlas](https://yuletide.github.io/metalmap)
 * [Old website archive](/flash-site) (_built in flash, now emulated in Rust_)
 
-### Past Projects
+## Past Projects
 * [Isochrone Accessibilty Toolkit](https://github.com/mapbox/impact-tools/tree/master/accessibility)
 * [Unicef GIGA Kazakhstan Connectivity Analysis](https://unicef.github.io/mapbox_analysis/story/map)
 * [COVAX Vaccine Distribution Toolkit](https://www.directionsmag.com/pressrelease/11017)
@@ -18,7 +17,7 @@ Spatial Web Dev
 * [Dynamic Charts & Legends](https://www.mapbox.com/impact-tools/charts)
 * [Textizen (now Granicus Interactive Text)](https://textizen.com/)
 
-### Blog Posts
+## Blog Posts
 _archive of things I've written elsewhere_
 * [El Mapa es Poder](https://blog.mapbox.com/el-mapa-es-poder-830a875fcc5b)
 * [Visualize and adjust last-mile routes with the Mapbox route tuner](https://blog.mapbox.com/visualize-and-adjust-last-mile-routes-with-the-mapbox-route-tuner-7b351f688a5f)
@@ -32,7 +31,7 @@ _archive of things I've written elsewhere_
 * [Architecting Asset Tracking with AWS and Mapbox](https://www.youtube.com/watch?v=G_Sn7b_NUZ4) (AWS Re:Invent 2018)
 
 
-### Creative Coding Sketches
+## Creative Coding Sketches
 * [dream pillars](https://editor.p5js.org/yuletide/full/aIqGbIVxO)
 * [fractal flowers](https://editor.p5js.org/yuletide/full/w-zQ4pvg6)
 * [evil music visualizer (volume warning)](https://editor.p5js.org/yuletide/full/sSCcQ27F8)
@@ -41,6 +40,6 @@ _archive of things I've written elsewhere_
 * [video kaleidoscope](https://editor.p5js.org/rfong/sketches/nPeF6UVrm)
 
 
-### Links
+## Links
 * [LinkedIn](https://www.linkedin.com/in/alexyule/)
 * [Mastodon](https://mastodon.social/@yuletide)
