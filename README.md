@@ -26,7 +26,10 @@ _archive of things I've written elsewhere_
 * [New Ways to Tag and Sort Content](https://blog.mapbox.com/new-ways-to-tag-and-sort-content-57df522d4baa)
 * [Tiling Data from the Census](https://www.mapbox.com/blog/tiling-data-from-the-census-using-mts-how-we-built-it)
 * [Tiling Thousands of Points to Vaccinate the States](https://www.mapbox.com/blog/tiling-thousands-of-points-to-vaccinate-the-states)
+* [Build a Ski Trail Map Using OpenStreetMap and MTS](https://www.mapbox.com/blog/build-a-ski-trail-map-using-openstreetmap-and-mts)
 * [New Bathymetry Tileset & Style](https://www.mapbox.com/blog/new-bathymetry-tileset-and-style-for-marine-maps)
+* [How to Set Up an Asset Tracking Architecture](https://blog.mapbox.com/how-to-set-up-an-asset-tracking-architecture-fe5565f6df9)
+
 
 ### Conference Talks
 * [Architecting Asset Tracking with AWS and Mapbox](https://www.youtube.com/watch?v=G_Sn7b_NUZ4) (AWS Re:Invent 2018)
@@ -44,3 +47,4 @@ _archive of things I've written elsewhere_
 ## Get in Touch
 * [LinkedIn](https://www.linkedin.com/in/alexyule/)
 * [Mastodon](https://mastodon.social/@yuletide)
+* [Polywork Resume](https://www.polywork.com/yuletide)
