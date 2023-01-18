@@ -20,7 +20,7 @@
 ## Blog Posts
 _archive of things I've written elsewhere_
 * [Measuring the impact of school connectivity in the GIGA Initiative: How we built it](https://www.mapbox.com/blog/measuring-the-impact-of-school-connectivity-in-the-giga-initiative-how-we-built-it)
-* [El Mapa es Poder](https://blog.mapbox.com/el-mapa-es-poder-830a875fcc5b)
+* [El Mapa es Poder: Participatory mapping and the historic legal victory for the Waorani in Ecuador](https://blog.mapbox.com/el-mapa-es-poder-830a875fcc5b)
 * [Visualize and adjust last-mile routes with the Mapbox route tuner](https://blog.mapbox.com/visualize-and-adjust-last-mile-routes-with-the-mapbox-route-tuner-7b351f688a5f)
 * [Texas Disenfranchises Voters: Isochrone Analysis](https://blog.mapbox.com/texas-disenfranchises-voters-isochrone-analysis-shows-2million-votes-negatively-impacted-in-b9c015a0bef7)
 * [New Ways to Tag and Sort Content](https://blog.mapbox.com/new-ways-to-tag-and-sort-content-57df522d4baa)
