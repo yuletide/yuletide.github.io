@@ -18,9 +18,9 @@ autho: Alex Yule
 * [Textizen (now Granicus Interactive Text)](https://textizen.com/)
   * Built in Ruby on Rails with Twilio. Acquired by GovDelivery/Granicus (2015)
 * [Esri PollMap Template (2011)](https://proceedings.esri.com/library/userconf/proc11/tech-workshops/tw_1924.pdf) - [_template_](https://www.arcgis.com/home/item.html?id=4769ff8ac3f04e48af7c32bc423bcbff&fromSearch=true&searchPosition=1&searchTerm=pollmap&searchFacet=item%20title) - [_code_](https://github.com/mappingcenter/pollmap)
-* [Vintage Flash Maps (2008)](/flash-site/flash/index.html) - _these are emulated in Rust using Ruffle and may not run correctly_
+* [Vintage Flash Maps (2008)](/flash-site/flash/index.html) - _these are emulated in Rust using Ruffle and may not run correctly until AVM3 support lands_
   * [Mapping the Massacres: Einsatzkommando 3 in Lithuania, 1941](https://yuletide.github.io/flash-site/flash/einsatzgruppen.html)
-  * [Black Population, 1960-2000 Selected Metro Areas](https://yuletide.github.io/flash-site/flash/census/)
+  <!-- * [Historical Census Data, 1960-2000 Selected Metro Areas](https://yuletide.github.io/flash-site/flash/census/) -->
 
 ## Blog Posts
 _archive of things I've written elsewhere_
