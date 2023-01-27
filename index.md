@@ -7,17 +7,20 @@ autho: Alex Yule
   * Pipeline: Mapshaper, Tippecanoe and rendered with MapboxGL. _Blog post in progress_
 * [Women on Waves](https://yuletide.github.io/womenonwaves_map/)
   * Data: [Women on Waves](https://www.womenonwaves.org/)
-* [Unicef GIGA Kazakhstan Connectivity Analysis](https://unicef.github.io/mapbox_analysis/story/map)
 * [Isochrone Accessibilty Toolkit](https://github.com/mapbox/impact-tools/tree/master/accessibility) _abridged version of the data pipeline built for UNICEF_
-* [COVAX Vaccine Distribution Toolkit](https://www.directionsmag.com/pressrelease/11017) _packaged version of accessibility tools_
+  * [Unicef GIGA Kazakhstan Connectivity Analysis](https://unicef.github.io/mapbox_analysis/story/map)
+  * [COVAX Vaccine Distribution Toolkit](https://www.directionsmag.com/pressrelease/11017) _packaged version of accessibility tools_
 * [Mapbox Impact Tools](https://github.com/mapbox/impact-tools)
 * [Asset Tracking Architecture](https://www.mapbox.com/solutions/asset-tracking/)
 * [Content Tagging](https://www.mapbox.com/solutions/content-tagging/)
-* [Route Optimization Tuner for Last-mile Logistics](https://www.mapbox.com/solutions/route-tuner/): [_live demo_](https://labs.mapbox.com/optimize-tuner/)
+* [Route Optimization Tuner for Last-mile Logistics](https://www.mapbox.com/solutions/route-tuner/) - [_demo_](https://labs.mapbox.com/optimize-tuner/)
 * [Dynamic Charts & Legends](https://www.mapbox.com/impact-tools/charts)
 * [Textizen (now Granicus Interactive Text)](https://textizen.com/)
   * Built in Ruby on Rails with Twilio. Acquired by GovDelivery/Granicus (2015)
-* [Vintage Flash Maps](/flash-site/flash/index.html)
+* [Esri PollMap Template (2011)](https://proceedings.esri.com/library/userconf/proc11/tech-workshops/tw_1924.pdf) - [_template_](https://www.arcgis.com/home/item.html?id=4769ff8ac3f04e48af7c32bc423bcbff&fromSearch=true&searchPosition=1&searchTerm=pollmap&searchFacet=item%20title) - [_code_](https://github.com/mappingcenter/pollmap)
+* [Vintage Flash Maps (2008)](/flash-site/flash/index.html) - _these are emulated in Rust using Ruffle and may not run correctly_
+  * [Mapping the Massacres: Einsatzkommando 3 in Lithuania, 1941](https://yuletide.github.io/flash-site/flash/einsatzgruppen.html)
+  * [Black Population, 1960-2000 Selected Metro Areas](https://yuletide.github.io/flash-site/flash/census/)
 
 ## Blog Posts
 _archive of things I've written elsewhere_
@@ -36,8 +39,10 @@ _archive of things I've written elsewhere_
 * [Architecting Asset Tracking with AWS and Mapbox](https://www.youtube.com/watch?v=G_Sn7b_NUZ4) (AWS Re:Invent 2018)
 * [Geographies of the Holocaust: Mapping the SS Concentration Camps](https://holocaustgeographies.org/publications). Book chapter. Indiana University Press. (2014)
 * [Knight News Challenge: Mobile](https://knightfoundation.org/press/releases/eight-mobile-ventures-win-24-million-funding-knigh/) - Winner $350k Prize (2013)
-* Association of American Geographers - Cartography Student Paper Competition 1st Prize Winner (2009)
-  * [Animating the Jäger Aktions: Einsatzkommando-3 in Lithuania, 1941](https://yuletide.github.io/flash-site/flash/einsatzgruppen.html)
+* [Poll Maps: Design, and Implementation](https://proceedings.esri.com/library/userconf/proc11/tech-workshops/tw_1924.pdf) (Esri UC 2011)
+* [Diverse Opportunities to Compile and Share Maps: Building an Indoor Routing Application](https://www.slideshare.net/yuletide/nacis-2010) (NACIS 2010)
+* [Animating the Jäger Aktions: Einsatzkommando-3 in Lithuania, 1941](https://yuletide.github.io/flash-site/flash/einsatzgruppen.html)
+  * Association of American Geographers - Cartography Student Paper Competition 1st Prize Winner (2009)
 
 ## Experiments
 
