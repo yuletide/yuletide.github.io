@@ -1,24 +1,23 @@
 ---
-title: Experiments
+title: Projects
 autho: Alex Yule
 ---
-
-* [The Heavy Metal Atlas](https://yuletide.github.io/metalmap)
-* [Maptyper](https://maptyper.netlify.app/)
-* [Nitterbot](https://github.com/yuletide/nitterbot/)
-* [Vintage Flash Maps](/flash-site/flash/index.html)
-* [Old Website](/flash-site) _(built in flash, now emulated in Rust)_
-
-## Past Projects
-* [Isochrone Accessibilty Toolkit](https://github.com/mapbox/impact-tools/tree/master/accessibility)
+* [The Heavy Metal Atlas](https://yuletide.github.io/metalmap). 
+  * Data: [Gridded Population of the World (GPW) v4](https://sedac.ciesin.columbia.edu/data/collection/gpw-v4), Natural Earth, [Metal-Archives.com](https://www.metal-archives.com/)
+  * Pipeline: Mapshaper, Tippecanoe and rendered with MapboxGL. _Blog post in progress_
+* [Women on Waves](https://yuletide.github.io/womenonwaves_map/)
+  * Data: [Women on Waves](https://www.womenonwaves.org/)
 * [Unicef GIGA Kazakhstan Connectivity Analysis](https://unicef.github.io/mapbox_analysis/story/map)
-* [COVAX Vaccine Distribution Toolkit](https://www.directionsmag.com/pressrelease/11017)
-* [Impact Tools](https://github.com/mapbox/impact-tools)
+* [Isochrone Accessibilty Toolkit](https://github.com/mapbox/impact-tools/tree/master/accessibility) _abridged version of the data pipeline built for UNICEF_
+* [COVAX Vaccine Distribution Toolkit](https://www.directionsmag.com/pressrelease/11017) _packaged version of accessibility tools_
+* [Mapbox Impact Tools](https://github.com/mapbox/impact-tools)
 * [Asset Tracking Architecture](https://www.mapbox.com/solutions/asset-tracking/)
 * [Content Tagging](https://www.mapbox.com/solutions/content-tagging/)
-* [Route Optimization Tuner for Logistics](https://www.mapbox.com/solutions/route-tuner/) [live demo](https://labs.mapbox.com/optimize-tuner/)
+* [Route Optimization Tuner for Last-mile Logistics](https://www.mapbox.com/solutions/route-tuner/): [_live demo_](https://labs.mapbox.com/optimize-tuner/)
 * [Dynamic Charts & Legends](https://www.mapbox.com/impact-tools/charts)
 * [Textizen (now Granicus Interactive Text)](https://textizen.com/)
+  * Built in Ruby on Rails with Twilio. Acquired by GovDelivery/Granicus (2015)
+* [Vintage Flash Maps](/flash-site/flash/index.html)
 
 ## Blog Posts
 _archive of things I've written elsewhere_
@@ -33,12 +32,20 @@ _archive of things I've written elsewhere_
 * [New Bathymetry Tileset & Style](https://www.mapbox.com/blog/new-bathymetry-tileset-and-style-for-marine-maps)
 * [How to Set Up an Asset Tracking Architecture](https://blog.mapbox.com/how-to-set-up-an-asset-tracking-architecture-fe5565f6df9)
 
-
-### Conference Talks
+### Selected Talks, Awards & Publications
 * [Architecting Asset Tracking with AWS and Mapbox](https://www.youtube.com/watch?v=G_Sn7b_NUZ4) (AWS Re:Invent 2018)
+* [Geographies of the Holocaust: Mapping the SS Concentration Camps](https://holocaustgeographies.org/publications). Book chapter. Indiana University Press. (2014)
+* [Knight News Challenge: Mobile](https://knightfoundation.org/press/releases/eight-mobile-ventures-win-24-million-funding-knigh/) - Winner $350k Prize (2013)
+* Association of American Geographers - Cartography Student Paper Competition 1st Prize Winner (2009)
+  * [Animating the Jäger Aktions: Einsatzkommando-3 in Lithuania, 1941](https://yuletide.github.io/flash-site/flash/einsatzgruppen.html)
 
+## Experiments
 
-## Creative Coding Sketches
+* [Maptyper](https://maptyper.netlify.app/): _Experimental tool for displaying text as map features_
+* [Nitterbot](https://github.com/yuletide/nitterbot/): _Mastodon bot built in Python to detwitterify the fediverse_
+* [Old Website](/flash-site) _(built in flash, now emulated in Rust)_
+
+### Creative Coding Sketches
 * [dream pillars](https://editor.p5js.org/yuletide/full/aIqGbIVxO)
 * [fractal flowers](https://editor.p5js.org/yuletide/full/w-zQ4pvg6)
 * [evil music visualizer (volume warning)](https://editor.p5js.org/yuletide/full/sSCcQ27F8)
@@ -51,3 +58,5 @@ _archive of things I've written elsewhere_
 * [LinkedIn](https://www.linkedin.com/in/alexyule/)
 * [Mastodon](https://mastodon.social/@yuletide)
 * [Polywork Resume](https://www.polywork.com/yuletide)
+
+![Under Construction Gif](assets/animated-under-construction-image-0004.gif)
