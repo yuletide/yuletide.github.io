@@ -59,4 +59,4 @@ _archive of things I've written elsewhere_
 * [Mastodon](https://mastodon.social/@yuletide)
 * [Polywork Resume](https://www.polywork.com/yuletide)
 
-![Under Construction Gif](assets/animated-under-construction-image-0004.gif)
+<!-- ![Under Construction Gif](assets/animated-under-construction-image-0004.gif) -->
