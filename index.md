@@ -7,18 +7,22 @@ autho: Alex Yule
   * Pipeline: Mapshaper, Tippecanoe and rendered with MapboxGL. _Blog post in progress_
 * [Women on Waves](https://yuletide.github.io/womenonwaves_map/)
   * Data: [Women on Waves](https://www.womenonwaves.org/)
-* [Isochrone Accessibilty Toolkit](https://github.com/mapbox/impact-tools/tree/master/accessibility) _abridged version of the data pipeline built for UNICEF_
+* [Isochrone Accessibilty Toolkit](https://github.com/mapbox/impact-tools/tree/master/accessibility) _abridged version of the geopandas data pipeline built for UNICEF_
   * [Unicef GIGA Kazakhstan Connectivity Analysis](https://unicef.github.io/mapbox_analysis/story/map)
   * [COVAX Vaccine Distribution Toolkit](https://www.directionsmag.com/pressrelease/11017) _packaged version of accessibility tools_
 * [Mapbox Impact Tools](https://github.com/mapbox/impact-tools)
 * [Asset Tracking Architecture](https://www.mapbox.com/solutions/asset-tracking/)
+  * _Built with: Pulumi, AWS Lambda, Kinesis, DynamoDB_
 * [Content Tagging](https://www.mapbox.com/solutions/content-tagging/)
+  * _Built with: Elasticsearch, React, MapboxGL_
 * [Route Optimization Tuner for Last-mile Logistics](https://www.mapbox.com/solutions/route-tuner/) - [_demo_](https://labs.mapbox.com/optimize-tuner/)
+  * _Built with: React, Mapbox Optimization API v2, Node.js_
 * [Dynamic Charts & Legends](https://www.mapbox.com/impact-tools/charts)
+  * _D3 chart template for Mapbox_
 * [Textizen (now Granicus Interactive Text)](https://textizen.com/)
-  * Built in Ruby on Rails with Twilio. Acquired by GovDelivery/Granicus (2015)
+  * _Built with Ruby on Rails and Twilio. Acquired by GovDelivery/Granicus (2015)_
 * [Esri PollMap Template (2011)](https://proceedings.esri.com/library/userconf/proc11/tech-workshops/tw_1924.pdf) - [_template_](https://www.arcgis.com/home/item.html?id=4769ff8ac3f04e48af7c32bc423bcbff&fromSearch=true&searchPosition=1&searchTerm=pollmap&searchFacet=item%20title) - [_code_](https://github.com/mappingcenter/pollmap)
-* [Vintage Flash Maps (2008)](/flash-site/flash/index.html) - _these are emulated in Rust using Ruffle and may not run correctly until AVM3 support lands_
+* [Vintage Flash Maps (2008)](/flash-site/flash/index.html) - _these are emulated in Rust using Ruffle and may not run correctly_
   * [Mapping the Massacres: Einsatzkommando 3 in Lithuania, 1941](https://yuletide.github.io/flash-site/flash/einsatzgruppen.html)
   <!-- * [Historical Census Data, 1960-2000 Selected Metro Areas](https://yuletide.github.io/flash-site/flash/census/) -->
 
@@ -41,8 +45,7 @@ _archive of things I've written elsewhere_
 * [Knight News Challenge: Mobile](https://knightfoundation.org/press/releases/eight-mobile-ventures-win-24-million-funding-knigh/) - Winner $350k Prize (2013)
 * [Poll Maps: Design, and Implementation](https://proceedings.esri.com/library/userconf/proc11/tech-workshops/tw_1924.pdf) (Esri UC 2011)
 * [Diverse Opportunities to Compile and Share Maps: Building an Indoor Routing Application](https://www.slideshare.net/yuletide/nacis-2010) (NACIS 2010)
-* [Animating the Jäger Aktions: Einsatzkommando-3 in Lithuania, 1941](https://yuletide.github.io/flash-site/flash/einsatzgruppen.html)
-  * Association of American Geographers - Cartography Student Paper Competition 1st Prize Winner (2009)
+* [Animating the Jäger Aktions: Einsatzkommando-3 in Lithuania, 1941](https://yuletide.github.io/flash-site/flash/einsatzgruppen.html) - Association of American Geographers - Cartography Student Honors Paper Competition 1st Prize Winner (2009)
 
 ## Experiments
 
