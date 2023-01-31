@@ -2,27 +2,27 @@
 title: Projects
 autho: Alex Yule
 ---
-* [The Heavy Metal Atlas](https://yuletide.github.io/metalmap). 
-  * Data: [Gridded Population of the World (GPW) v4](https://sedac.ciesin.columbia.edu/data/collection/gpw-v4), Natural Earth, [Metal-Archives.com](https://www.metal-archives.com/)
-  * Pipeline: Mapshaper, Tippecanoe and rendered with MapboxGL. _Blog post in progress_
-* [Women on Waves](https://yuletide.github.io/womenonwaves_map/)
-  * Data: [Women on Waves](https://www.womenonwaves.org/)
-* [Isochrone Accessibilty Toolkit](https://github.com/mapbox/impact-tools/tree/master/accessibility) _abridged version of the geopandas data pipeline built for UNICEF_
+* [The Heavy Metal Atlas](https://yuletide.github.io/metalmap). _First global map of Heavy Metal bands per capita at the provincial level_ 
+  * Data: [Gridded Population of the World (GPW) v4](https://sedac.ciesin.columbia.edu/data/collection/gpw-v4), [Natural Earth](https://github.com/nvkelso/natural-earth-vector), [Metal-Archives.com](https://www.metal-archives.com/)
+  * 🛠_: Mapshaper, Postgres, Tippecanoe, MapboxGL. Blog post in progress_
+* [Women on Waves](https://yuletide.github.io/womenonwaves_map/): _Healthcare access map_
+  * 🛠_: D3, Data: [Women on Waves](https://www.womenonwaves.org/)_
+* [Isochrone Accessibilty Toolkit](https://github.com/mapbox/impact-tools/tree/master/accessibility) - _abridged version of a python analysis pipeline built for UNICEF_
   * [Unicef GIGA Kazakhstan Connectivity Analysis](https://unicef.github.io/mapbox_analysis/story/map)
-  * [COVAX Vaccine Distribution Toolkit](https://www.directionsmag.com/pressrelease/11017) _packaged version of accessibility tools_
-* [Mapbox Impact Tools](https://github.com/mapbox/impact-tools)
-* [Asset Tracking Architecture](https://www.mapbox.com/solutions/asset-tracking/)
-  * _Built with: Pulumi, AWS Lambda, Kinesis, DynamoDB_
-* [Content Tagging](https://www.mapbox.com/solutions/content-tagging/)
-  * _Built with: Elasticsearch, React, MapboxGL_
-* [Route Optimization Tuner for Last-mile Logistics](https://www.mapbox.com/solutions/route-tuner/) - [_demo_](https://labs.mapbox.com/optimize-tuner/)
-  * _Built with: React, Mapbox Optimization API v2, Node.js_
-* [Dynamic Charts & Legends](https://www.mapbox.com/impact-tools/charts)
-  * _D3 chart template for Mapbox_
-* [Textizen (now Granicus Interactive Text)](https://textizen.com/)
-  * _Built with Ruby on Rails and Twilio. Acquired by GovDelivery/Granicus (2015)_
-* [Esri PollMap Template (2011)](https://proceedings.esri.com/library/userconf/proc11/tech-workshops/tw_1924.pdf) - [_template_](https://www.arcgis.com/home/item.html?id=4769ff8ac3f04e48af7c32bc423bcbff&fromSearch=true&searchPosition=1&searchTerm=pollmap&searchFacet=item%20title) - [_code_](https://github.com/mappingcenter/pollmap)
-* [Vintage Flash Maps (2008)](/flash-site/flash/index.html) - _these are emulated in Rust using Ruffle and may not run correctly_
+  * [COVAX Vaccine Distribution Toolkit](https://www.directionsmag.com/pressrelease/11017) -  _packaged for vaccine distribution in South Sudan_
+* [Mapbox Impact Tools](https://github.com/mapbox/impact-tools): _blueprints for change-makers_
+* [Asset Tracking Architecture](https://www.mapbox.com/solutions/asset-tracking/) - [[blog]](https://blog.mapbox.com/how-to-set-up-an-asset-tracking-architecture-fe5565f6df9)
+  * 🛠: _Pulumi, AWS Lambda, Kinesis, DynamoDB_
+* [Content Tagging](https://www.mapbox.com/solutions/content-tagging/) - [[blog]](https://blog.mapbox.com/new-ways-to-tag-and-sort-content-57df522d4baa) - [[code]](https://github.com/mapbox/content-tagging)
+  * 🛠_: Elasticsearch, React, MapboxGL_
+* [Route Optimization Tuner for Last-mile Logistics](https://www.mapbox.com/solutions/route-tuner/) - [[blog]](https://blog.mapbox.com/visualize-and-adjust-last-mile-routes-with-the-mapbox-route-tuner-7b351f688a5f) - [[demo]](https://labs.mapbox.com/optimize-tuner/)
+  * 🛠_: React, Mapbox Optimization API v2, Node.js_
+* [Dynamic Charts & Legends](https://www.mapbox.com/impact-tools/charts) - [[tutorial]](https://labs.mapbox.com/education/impact-tools/line-charts/) - [[code]](https://github.com/mapbox/impact-tools/tree/master/charts)
+  * _Configurable D3 chart template for Mapbox_
+* [Textizen (now Granicus Interactive Text)](https://textizen.com/) - [[launch press]](https://www.govtech.com/archive/texting-government-narrowing-digital-divide.html) - [[funding]](https://technical.ly/civic-news/textizen-abayima-philly-projects-win-500k-in-knight-news-challenge-mobile/) - [[acquisition]](https://technical.ly/startups/textizen-govdelivery-acquisition/)
+  * 🛠_: Ruby on Rails, Twilio. Acquired by GovDelivery/Granicus (2015)_
+* [Esri PollMap Template (2011)](https://proceedings.esri.com/library/userconf/proc11/tech-workshops/tw_1924.pdf) - [[template]](https://www.arcgis.com/home/item.html?id=4769ff8ac3f04e48af7c32bc423bcbff&fromSearch=true&searchPosition=1&searchTerm=pollmap&searchFacet=item%20title) - [[code]](https://github.com/mappingcenter/pollmap)
+* [Experiments in Flash Spatiotemporal Visualization (2008)](/flash-site/flash/index.html) - _these are emulated in Rust using Ruffle and may not run correctly_
   * [Mapping the Massacres: Einsatzkommando 3 in Lithuania, 1941](https://yuletide.github.io/flash-site/flash/einsatzgruppen.html)
   <!-- * [Historical Census Data, 1960-2000 Selected Metro Areas](https://yuletide.github.io/flash-site/flash/census/) -->
 
@@ -51,7 +51,7 @@ _archive of things I've written elsewhere_
 
 * [Maptyper](https://maptyper.netlify.app/): _Experimental tool for displaying text as map features_
 * [Nitterbot](https://github.com/yuletide/nitterbot/): _Mastodon bot built in Python to detwitterify the fediverse_
-* [Old Website](/flash-site) _(built in flash, now emulated in Rust)_
+* [Old Website Archive](/flash-site) _(built in flash, now emulated with Ruffle)_
 
 ### Creative Coding Sketches
 * [dream pillars](https://editor.p5js.org/yuletide/full/aIqGbIVxO)
@@ -65,6 +65,6 @@ _archive of things I've written elsewhere_
 ## Get in Touch
 * [LinkedIn](https://www.linkedin.com/in/alexyule/)
 * [Mastodon](https://mastodon.social/@yuletide)
-* [Polywork Resume](https://www.polywork.com/yuletide)
+* [Polywork](https://www.polywork.com/yuletide)
 
 <!-- ![Under Construction Gif](assets/animated-under-construction-image-0004.gif) -->
