@@ -1,9 +1,9 @@
 ---
-title: 
+title: About
 author: Alex Yule
 ---
 
-## @yuletide: (_noun_) a developer who solves complex, impactful problems specializing in spatial data and architecture.
+## _yuletide_: (_noun_, also _Alex Yule_) a customer-facing developer who solves complex, impactful problems specializing in spatial data and architecture.
 {: .callout}
 
 # Projects
