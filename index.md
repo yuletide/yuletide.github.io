@@ -1,10 +1,18 @@
 ---
-title: Projects
-autho: Alex Yule
+title: 
+author: Alex Yule
 ---
+
+## @yuletide: (_noun_) a developer who solves complex, impactful problems specializing in spatial data and architecture.
+{: .callout}
+
+# Projects
+
+### Here are some things I've built along the way
+
 * [The Heavy Metal Atlas](https://yuletide.github.io/metalmap). _First global map of Heavy Metal bands per capita at the provincial level_ 
-  * Data: [Gridded Population of the World (GPW) v4](https://sedac.ciesin.columbia.edu/data/collection/gpw-v4), [Natural Earth](https://github.com/nvkelso/natural-earth-vector), [Metal-Archives.com](https://www.metal-archives.com/)
-  * 🛠_: Mapshaper, Postgres, Tippecanoe, MapboxGL. Blog post in progress_
+  * 🛠_: [Pipeline](https://github.com/yuletide/metalpop): Mapshaper, GDAL, Postgres, Tippecanoe, MapboxGL. Blog post in progress_
+  * 🗺: [Gridded Population of the World (GPW) v4](https://sedac.ciesin.columbia.edu/data/collection/gpw-v4), [Natural Earth](https://github.com/nvkelso/natural-earth-vector), [Metal-Archives.com](https://www.metal-archives.com/)
 * [Women on Waves](https://yuletide.github.io/womenonwaves_map/): _Healthcare access map_
   * 🛠_: D3, Data: [Women on Waves](https://www.womenonwaves.org/)_
 * [Isochrone Accessibilty Toolkit](https://github.com/mapbox/impact-tools/tree/master/accessibility) - _abridged version of a python analysis pipeline built for UNICEF_
@@ -24,7 +32,7 @@ autho: Alex Yule
 * [Esri PollMap Template (2011)](https://proceedings.esri.com/library/userconf/proc11/tech-workshops/tw_1924.pdf) - [[template]](https://www.arcgis.com/home/item.html?id=4769ff8ac3f04e48af7c32bc423bcbff&fromSearch=true&searchPosition=1&searchTerm=pollmap&searchFacet=item%20title) - [[code]](https://github.com/mappingcenter/pollmap)
 * [Experiments in Flash Spatiotemporal Visualization (2008)](/flash-site/flash/index.html) - _these are emulated in Rust using Ruffle and may not run correctly_
   * [Mapping the Massacres: Einsatzkommando 3 in Lithuania, 1941](https://yuletide.github.io/flash-site/flash/einsatzgruppen.html)
-  <!-- * [Historical Census Data, 1960-2000 Selected Metro Areas](https://yuletide.github.io/flash-site/flash/census/) -->
+  * [Historical Census Data, Black Population Change 1960-2000 Across 6 Selected Metro Areas](https://yuletide.github.io/flash-site/flash/census/)
 
 ## Blog Posts
 _archive of things I've written elsewhere_
