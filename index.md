@@ -3,6 +3,9 @@ title: About
 author: Alex Yule
 ---
 
+<script src="https://cdnjs.cloudflare.com/ajax/libs/chroma-js/2.4.2/chroma.min.js" integrity="sha512-zInFF17qBFVvvvFpIfeBzo7Tj7+rQxLeTJDmbxjBz5/zIr89YVbTNelNhdTT+/DCrxoVzBeUPVFJsczKbB7sew==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+<script src="{{ base.url | prepend: site.url }}/assets/js/animate-background.js"></script>
 ## _yuletide_: (_noun_, also _Alex Yule_) a customer-facing developer who solves complex, impactful problems specializing in spatial data and architecture.
 {: .callout}
 
