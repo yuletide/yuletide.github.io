@@ -58,7 +58,7 @@ _archive of things I've written elsewhere_
 * [Diverse Opportunities to Compile and Share Maps: Building an Indoor Routing Application](https://www.slideshare.net/yuletide/nacis-2010) (NACIS 2010)
 * [Animating the Jäger Aktions: Einsatzkommando-3 in Lithuania, 1941](https://yuletide.github.io/flash-site/flash/einsatzgruppen.html) - Association of American Geographers - Cartography Student Honors Paper Competition 1st Prize Winner (2009)
 
-## Experiments
+## Experiments ✨
 
 * [Maptyper](https://maptyper.netlify.app/): _Experimental tool for displaying text as map features_
 * [Nitterbot](https://github.com/yuletide/nitterbot/): _Mastodon bot built in Python to detwitterify the fediverse_
