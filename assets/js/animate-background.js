@@ -8,7 +8,9 @@ const darkBlue = [0, 32, 44];
 const solarMix1 = "#c8ccc2";
 const solarMix2 = "#4683ab";
 const solarMix3 = "#04313c";
-const scale = 1200;
+let scale;
+
+console.log(scale);
 let colorA, colorB;
 
 if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
@@ -27,15 +29,28 @@ if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').match
 //   const newColorScheme = event.matches ? "dark" : "light";
 //   console.log("dark")
 // });
+
+window.addEventListener('load', (event) => {
+  // const height = Math.max(document.body.getBoundingClientRect().height, document.documentElement.getBoundingClientRect().height)
+  scale = document.body.scrollHeight - window.innerHeight;
+  if (window.scrollY || window.pageYOffset){
+    // console.log("scrolled");
+    setColor();
+  }
+  
+});
+
+
 window.addEventListener('scroll', () => {
+  setColor();
+
+})
+
+function setColor(sy){
+  // y should scale from 0 to scale
   const y = (window.scrollY || window.pageYOffset) / scale;
+  // console.log('setColor', y, body.style.background)
   const color = chroma.mix(colorA, colorB, y).css();
   // console.log(y, color);
   body.style.backgroundColor = color;
-  // const y = 1 + (window.scrollY || window.pageYOffset) / scale;
-  // const yb = y*0.9;
-  // console.log("scroll", window.scrollY, y)
-  // const [r, g, b] = [red, green/y, blue/yb].map(Math.round);
-  // body.style.backgroundColor = `rgb(${r}, ${g}, ${b})`;
-  // console.log(`rgb(${r}, ${g}, ${b})`);
-})
+}
