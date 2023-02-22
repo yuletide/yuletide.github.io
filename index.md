@@ -71,6 +71,7 @@ _archive of things I've written elsewhere_
 * [rainy day](https://editor.p5js.org/yuletide/full/qPDRU-zB8)
 * [telephone](https://editor.p5js.org/yuletide/sketches/oZC6rxd_h)
 * [video kaleidoscope](https://editor.p5js.org/rfong/sketches/nPeF6UVrm)
+* [haunted island](https://editor.p5js.org/yuletide/full/E4X2xW9VB)
 
 
 ## Get in Touch
