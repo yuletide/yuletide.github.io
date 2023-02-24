@@ -72,6 +72,7 @@ _archive of things I've written elsewhere_
 * [telephone](https://editor.p5js.org/yuletide/sketches/oZC6rxd_h)
 * [video kaleidoscope](https://editor.p5js.org/rfong/sketches/nPeF6UVrm)
 * [haunted island](https://editor.p5js.org/yuletide/full/E4X2xW9VB) - _click for audio, ctr-r to record and save audio_
+* [wave pong](https://editor.p5js.org/yuletide/full/KkEqvPUsF)
 
 
 ## Get in Touch
