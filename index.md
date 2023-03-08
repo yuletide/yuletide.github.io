@@ -18,8 +18,8 @@ author: Alex Yule
   * 🗺: [Gridded Population of the World (GPW) v4](https://sedac.ciesin.columbia.edu/data/collection/gpw-v4), [Natural Earth](https://github.com/nvkelso/natural-earth-vector), [Metal-Archives.com](https://www.metal-archives.com/)
 * [Women on Waves](https://yuletide.github.io/womenonwaves_map/): _Healthcare access map_
   * 🛠_: D3, Data: [Women on Waves](https://www.womenonwaves.org/)_
-* [Isochrone Accessibilty Toolkit](https://github.com/mapbox/impact-tools/tree/master/accessibility) - _abridged version of a python analysis pipeline built for UNICEF_
-  * [Unicef GIGA Kazakhstan Connectivity Analysis](https://unicef.github.io/mapbox_analysis/story/map)
+* [Isochrone Accessibilty Toolkit](https://github.com/mapbox/impact-tools/tree/master/accessibility) - _abridged version of a python analysis pipeline built for UNICEF_ - 
+  * [Unicef GIGA Kazakhstan Connectivity Analysis](https://unicef.github.io/mapbox_analysis/story/map) - [[blog]](https://www.mapbox.com/blog/measuring-the-impact-of-school-connectivity-in-the-giga-initiative-how-we-built-it)
   * [COVAX Vaccine Distribution Toolkit](https://www.directionsmag.com/pressrelease/11017) -  _packaged for vaccine distribution in South Sudan_
 * [Mapbox Impact Tools](https://github.com/mapbox/impact-tools): _blueprints for change-makers_
 * [Asset Tracking Architecture](https://www.mapbox.com/solutions/asset-tracking/) - [[blog]](https://blog.mapbox.com/how-to-set-up-an-asset-tracking-architecture-fe5565f6df9)
