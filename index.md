@@ -73,6 +73,10 @@ _archive of things I've written elsewhere_
 * [video kaleidoscope](https://editor.p5js.org/rfong/sketches/nPeF6UVrm)
 * [haunted island](https://editor.p5js.org/yuletide/full/E4X2xW9VB) - _click for audio, ctr-r to record and save audio_
 * [wave pong](https://editor.p5js.org/yuletide/full/KkEqvPUsF)
+* [floating orbs](https://editor.p5js.org/yuletide/full/N29YW1sXP)
+* [bouncing bunnies](https://editor.p5js.org/yuletide/sketches/M0A8YYKMD)
+* [spiders everywhere](https://editor.p5js.org/yuletide/full/NwliFzdWd)
+* [shark week](https://editor.p5js.org/yuletide/full/Opv5ULYkQ)
 
 
 ## Get in Touch
