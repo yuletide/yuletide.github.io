@@ -69,12 +69,12 @@ _archive of things I've written elsewhere_
 * [fractal flowers](https://editor.p5js.org/yuletide/full/w-zQ4pvg6)
 * [evil music visualizer (volume warning)](https://editor.p5js.org/yuletide/full/sSCcQ27F8)
 * [rainy day](https://editor.p5js.org/yuletide/full/qPDRU-zB8)
-* [telephone](https://editor.p5js.org/yuletide/sketches/oZC6rxd_h)
-* [video kaleidoscope](https://editor.p5js.org/rfong/sketches/nPeF6UVrm)
+* [telephone synthesizer](https://editor.p5js.org/yuletide/sketches/oZC6rxd_h)
+* [video kaleidoscope](https://editor.p5js.org/rfong/full/nPeF6UVrm)
 * [haunted island](https://editor.p5js.org/yuletide/full/E4X2xW9VB) - _click for audio, ctr-r to record and save audio_
 * [wave pong](https://editor.p5js.org/yuletide/full/KkEqvPUsF)
 * [floating orbs](https://editor.p5js.org/yuletide/full/N29YW1sXP)
-* [bouncing bunnies](https://editor.p5js.org/yuletide/sketches/M0A8YYKMD)
+* [bouncing bunnies](https://editor.p5js.org/yuletide/full/M0A8YYKMD)
 * [spiders everywhere](https://editor.p5js.org/yuletide/full/NwliFzdWd)
 * [shark week](https://editor.p5js.org/yuletide/full/Opv5ULYkQ)
 
