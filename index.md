@@ -81,7 +81,6 @@ _archive of things I've written elsewhere_
 
 ## Get in Touch
 * [LinkedIn](https://www.linkedin.com/in/alexyule/)
-* [Mastodon](https://mastodon.social/@yuletide)
 * [Polywork](https://www.polywork.com/yuletide)
 
 <!-- ![Under Construction Gif](assets/animated-under-construction-image-0004.gif) -->
