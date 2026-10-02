@@ -13,6 +13,7 @@ author: Alex Yule
 
 ### Here are some things I've built along the way
 
+* [Photos](https://photos.alexyule.com): _My photography portfolio_
 * [U.S. Digital Service @ SSA](https://www.usds.gov/news-and-blog/a-decade-of-partnership-between-usds-and-ssa)
 * [The Heavy Metal Atlas](https://yuletide.github.io/metalmap). _First global map of Heavy Metal bands per capita at the provincial level_ 
   * 🛠_: [Pipeline](https://github.com/yuletide/metalpop): Mapshaper, GDAL, Postgres, Tippecanoe, MapboxGL. Blog post in progress_

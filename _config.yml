@@ -9,6 +9,8 @@ github: [metadata]
 
 minima:
   skin: solarized
+  nav_links:
+    - { title: Photos, url: "https://photos.alexyule.com" }
 #   # Minima date format.
 #   # Refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this.
 #   #
