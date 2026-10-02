@@ -10,3 +10,9 @@
 }
 
 
+@media screen and (min-width: 601px) {
+  .site-nav .nav-item + .nav-item {
+    padding-left: 15px;
+    border-left: 1px solid var(--solarized-mono1);
+  }
+}
